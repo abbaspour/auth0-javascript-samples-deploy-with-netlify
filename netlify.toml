@@ -4,4 +4,4 @@
     publish = "public"
 
 [functions]
-    directory = "02-Calling-an-API/netlify/functions/"
+    directory = "netlify/functions/"
